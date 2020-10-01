@@ -1,4 +1,4 @@
 password.txt
 cache/*
 !cache/configuration.txt
-
+!cache/nuevo.txt
