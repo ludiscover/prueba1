@@ -1,0 +1,4 @@
+password.txt
+cache/*
+!cache/configuration.txt
+
