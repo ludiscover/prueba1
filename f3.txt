@@ -3,3 +3,5 @@ probando ramas
 prueba la rama 2 en otro usuario
 resolviendo problema con usuario2 
 resolviendo problemas de subida 
+
+resolviendo problemas en commit en los fichero
