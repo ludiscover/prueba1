@@ -1,3 +1,6 @@
 modificacion para git rebase
 probando ramas
 prueba la rama 2 en otro usuario
+
+resolviendo problema con usuario2 
+
